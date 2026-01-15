@@ -1,0 +1,9 @@
+
+{
+  "name": "Rafiq Pets (رفيق للحيوانات الأليفة)",
+  "description": "منصة متكاملة لرعاية حيوانك الأليف: متجر، خدمات طبية، وخدمات متنوعة مع مساعد ذكاء اصطناعي ذكي.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
